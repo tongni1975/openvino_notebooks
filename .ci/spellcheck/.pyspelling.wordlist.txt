@@ -17,6 +17,7 @@ Agentic
 agentic
 ai
 al
+AdapterConfig
 AISE
 AISEClassification
 AISEDetection
@@ -266,6 +267,7 @@ english
 ENLSP
 enum
 et
+emilykang
 Evol
 EVS
 eXplainable
@@ -410,6 +412,7 @@ IRs
 iteratively
 JAX
 JAX's
+Javascript
 JFLEG
 JIT
 Jina
@@ -496,6 +499,7 @@ logits
 LogSoftmax
 LoRA
 LoRAs
+lora
 lraspp
 LRASPP
 LTS
@@ -572,6 +576,7 @@ mpt
 MPT
 MRPC
 mRoPE
+medprob
 MTVQA
 multiarchitecture
 Multiclass
@@ -954,6 +959,7 @@ Swin
 SwiGLU
 SwinV
 sym
+snshrivas
 TaskManager
 TartanAir
 tbb
@@ -1002,6 +1008,8 @@ tunable
 tv
 TwoStreamInterleaveTransformer
 TypeScript
+tinyllama
+TinyLLama
 Udnie
 UHD
 UI
