@@ -121,6 +121,7 @@
 - [Convert models from ModelScope to OpenVINO](./modelscope-to-openvino/modelscope-to-openvino.ipynb)
 - [Hello Model Server](./model-server/model-server.ipynb)
 - [LocalAI and OpenVINO](./localai/localai.ipynb)
+- [Text Generation with LoRA via OpenVINO GenAI](./llm-lora/llm-lora.ipynb)
 - [Quantize NLP models with Post-Training Quantization ​in NNCF](./language-quantize-bert/language-quantize-bert.ipynb)
 - [Run inference in Keras 3 with the OpenVINO™ IR backend](./keras-with-openvino-backend/keras-with-openvino-backend.ipynb)
 - [Convert a JAX Model to OpenVINO™ IR](./jax-to-openvino/jax-classification-to-openvino.ipynb)
@@ -165,6 +166,7 @@
 ## First Steps
 
 - [OpenVINO™ Runtime API Tutorial](./openvino-api/openvino-api.ipynb)
+- [Text Generation with LoRA via OpenVINO GenAI](./llm-lora/llm-lora.ipynb)
 - [Image-to-image generation using OpenVINO GenAI](./image-to-image-genai/image-to-image-genai.ipynb)
 - [Hello Image Classification](./hello-world/hello-world.ipynb)
 - [Hello Image Segmentation](./hello-segmentation/hello-segmentation.ipynb)
