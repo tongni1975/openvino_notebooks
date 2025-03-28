@@ -401,6 +401,7 @@ interpretable
 invertible
 intervaling
 im
+imageLink
 img
 ip
 IPs
@@ -472,6 +473,7 @@ librispeech
 LibriTTS
 Lim
 LinearCameraEmbedder
+linearized
 Lippipeline
 Liu
 LLama
@@ -628,6 +630,7 @@ ocr
 OCRBench
 OCRv
 odometry
+olmOCR
 OmniGen
 OmniGen's
 OmniParser
@@ -699,6 +702,7 @@ parsers
 patchifying
 perceptron
 Patil
+PDFs
 pdftex
 PEFT
 perceiver
