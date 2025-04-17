@@ -290,6 +290,7 @@
 - [Text-to-Image Generation with LCM LoRA and ControlNet Conditioning](./latent-consistency-models-image-generation/lcm-lora-controlnet.ipynb)
 - [Image generation with Latent Consistency Model and OpenVINO](./latent-consistency-models-image-generation/latent-consistency-models-image-generation.ipynb)
 - [Kosmos-2: Multimodal Large Language Model and OpenVINO](./kosmos2-multimodal-large-language-model/kosmos2-multimodal-large-language-model.ipynb)
+- [Text-to-Speech synthesis using Kokoro and OpenVINO](./kokoro/kokoro.ipynb)
 - [OpenVINO optimizations for Knowledge graphs](./knowledge-graphs-conve/knowledge-graphs-conve.ipynb)
 - [Multimodal understanding and generation with Janus-Pro and OpenVINO](./janus-multimodal-generation/janus-multimodal-generation.ipynb)
 - [Visual-language assistant with InternVL2 and OpenVINO](./internvl2/internvl2.ipynb)
