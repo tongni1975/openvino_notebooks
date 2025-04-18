@@ -2,7 +2,7 @@
 
 Qwen2.5-Omni is an end-to-end multimodal model designed to perceive diverse modalities, including text, images, audio, and video, while simultaneously generating text and natural speech responses in a streaming manner.
 
-![Image](https://github.com/user-attachments/assets/c2402804-c9fe-4105-97c9-ab283a05b9a4)
+![Image](https://github.com/user-attachments/assets/600798db-c80e-4d1d-ab00-fa945cdcd583)
 
 More details about model can be found in [model card](https://huggingface.co/Qwen/Qwen2.5-Omni-7B) and original [repo](https://github.com/QwenLM/Qwen2.5-Omni).
 
@@ -19,7 +19,7 @@ The tutorial consists from following steps:
 - Launch Interactive demo
 
 In this demonstration, you'll create interactive chatbot that can answer questions about provided image's content. Image bellow shows a result of model work.
-![Image](https://github.com/user-attachments/assets/6c060735-e838-450c-8c2b-cc0e0be902c6)
+![Image](https://github.com/user-attachments/assets/83e1e0f7-1a12-426b-b3f8-794662812cd4)
 
 
 ## Installation instructions
