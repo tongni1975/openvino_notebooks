@@ -69,9 +69,9 @@
 - [Create a RAG system using OpenVINO and LangChain](./llm-rag-langchain/llm-rag-langchain.ipynb)
 - [Create a RAG system using OpenVINO GenAI and LangChain](./llm-rag-langchain/llm-rag-langchain-genai.ipynb)
 - [LLM Instruction-following pipeline with OpenVINO](./llm-question-answering/llm-question-answering.ipynb)
+- [Create a native Agent with OpenVINO](./llm-native-agent-react/llm-native-agent-react.ipynb)
 - [Create an LLM-powered Chatbot using OpenVINO](./llm-chatbot/llm-chatbot.ipynb)
 - [Create an LLM-powered Chatbot using OpenVINO Generate API](./llm-chatbot/llm-chatbot-generate-api.ipynb)
-- [Create a native Agent with OpenVINO](./llm-native-agent-react/llm-native-agent-react.ipynb)
 - [Create ReAct Agent using OpenVINO and LangChain](./llm-agent-react-langchain/llm-agent-react-langchain.ipynb)
 - [Create an Agentic RAG using OpenVINO and LlamaIndex](./llm-agent-rag-llamaindex/llm-agent-rag-llamaindex.ipynb)
 - [Create Function-calling Agent using OpenVINO and Qwen-Agent](./llm-agent-functioncall/llm-agent-functioncall-qwen.ipynb)
@@ -139,13 +139,13 @@
 
 ## Convert
 
+- [YOLOv11 quantization with accuracy control using NNCF](./yolov11-quantization-with-accuracy-control/yolov11-quantization-with-accuracy-control.ipynb)
 - [Classification with ConvNeXt and OpenVINO](./torchvision-zoo-to-openvino/convnext-classification.ipynb)
 - [Convert a Tensorflow Lite Model to OpenVINO™](./tflite-to-openvino/tflite-to-openvino.ipynb)
 - [Using TensorFlow Object Detection API with OpenVINO™](./tensorflow-object-detection-to-openvino/tensorflow-object-detection-api-with-openvino.ipynb)
 - [Convert of TensorFlow Hub models to OpenVINO Intermediate Representation (IR)](./tensorflow-hub/tensorflow-hub.ipynb)
 - [Convert a TensorFlow Model to OpenVINO™](./tensorflow-classification-to-openvino/tensorflow-classification-to-openvino.ipynb)
 - [Line-level text detection with Surya](./surya-line-level-text-detection/surya-line-level-text-detection.ipynb)
-- [YOLOv11 quantization with accuracy control using NNCF](./yolov11-quantization-with-accuracy-control/yolov11-quantization-with-accuracy-control.ipynb)
 - [Convert a PyTorch Model to OpenVINO™ IR](./pytorch-to-openvino/pytorch-to-openvino.ipynb)
 - [Convert a PaddlePaddle Model to OpenVINO™ IR](./paddle-to-openvino/paddle-to-openvino-classification.ipynb)
 - [Voice tone cloning with OpenVoice and OpenVINO](./openvoice/openvoice.ipynb)
@@ -275,9 +275,9 @@
 - [Create a RAG system using OpenVINO and LangChain](./llm-rag-langchain/llm-rag-langchain.ipynb)
 - [Create a RAG system using OpenVINO GenAI and LangChain](./llm-rag-langchain/llm-rag-langchain-genai.ipynb)
 - [LLM Instruction-following pipeline with OpenVINO](./llm-question-answering/llm-question-answering.ipynb)
+- [Create a native Agent with OpenVINO](./llm-native-agent-react/llm-native-agent-react.ipynb)
 - [Create an LLM-powered Chatbot using OpenVINO](./llm-chatbot/llm-chatbot.ipynb)
 - [Create an LLM-powered Chatbot using OpenVINO Generate API](./llm-chatbot/llm-chatbot-generate-api.ipynb)
-- [Create a native Agent with OpenVINO](./llm-native-agent-react/llm-native-agent-react.ipynb)
 - [Create ReAct Agent using OpenVINO and LangChain](./llm-agent-react-langchain/llm-agent-react-langchain.ipynb)
 - [Create an Agentic RAG using OpenVINO and LlamaIndex](./llm-agent-rag-llamaindex/llm-agent-rag-llamaindex.ipynb)
 - [Create Function-calling Agent using OpenVINO and Qwen-Agent](./llm-agent-functioncall/llm-agent-functioncall-qwen.ipynb)
@@ -335,11 +335,11 @@
 
 ## Optimize
 
+- [YOLOv11 quantization with accuracy control using NNCF](./yolov11-quantization-with-accuracy-control/yolov11-quantization-with-accuracy-control.ipynb)
 - [Quantization Aware Training with NNCF, using TensorFlow Framework](./tensorflow-quantization-aware-training/tensorflow-quantization-aware-training.ipynb)
 - [SpeechBrain Emotion Recognition with OpenVINO](./speechbrain-emotion-recognition/speechbrain-emotion-recognition.ipynb)
-- [Accelerate Inference of Sparse Transformer Models with OpenVINO™ and 4th Gen Intel&reg; Xeon&reg; Scalable Processors](./sparsity-optimization/sparsity-optimization.ipynb)
-- [YOLOv11 quantization with accuracy control using NNCF](./yolov11-quantization-with-accuracy-control/yolov11-quantization-with-accuracy-control.ipynb)
 - [Quantize Speech Recognition Models with accuracy control using NNCF PTQ API](./speech-recognition-quantization/speech-recognition-quantization-wav2vec2.ipynb)
+- [Accelerate Inference of Sparse Transformer Models with OpenVINO™ and 4th Gen Intel&reg; Xeon&reg; Scalable Processors](./sparsity-optimization/sparsity-optimization.ipynb)
 - [Quantization-Sparsity Aware Training with NNCF, using PyTorch framework](./pytorch-quantization-sparsity-aware-training/pytorch-quantization-sparsity-aware-training.ipynb)
 - [Quantization Aware Training with NNCF, using PyTorch framework](./pytorch-quantization-aware-training/pytorch-quantization-aware-training.ipynb)
 - [Post-Training Quantization of PyTorch models with NNCF](./pytorch-post-training-quantization-nncf/pytorch-post-training-quantization-nncf.ipynb)
