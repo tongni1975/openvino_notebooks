@@ -324,6 +324,7 @@
 - [Visual-language assistant using DeepSeek-VL2 and OpenVINO](./deepseek-vl2/deepseek-vl2.ipynb)
 - [LLM reasoning with DeepSeek-R1 distilled models](./deepseek-r1/deepseek-r1.ipynb)
 - [Colorize grayscale images using 🎨 DDColor and OpenVINO](./ddcolor-image-colorization/ddcolor-image-colorization.ipynb)
+- [Low-Light Image Restoration with DarkIR model using OpenVINO™](./darkir-image-restoration/darkir-image-restoration.ipynb)
 - [Text-to-Image Generation with ControlNet Conditioning](./controlnet-stable-diffusion/controlnet-stable-diffusion.ipynb)
 - [Zero-shot Image Classification with OpenAI CLIP and OpenVINO™](./clip-zero-shot-image-classification/clip-zero-shot-classification.ipynb)
 - [Language-Visual Saliency with CLIP and OpenVINO™](./clip-language-saliency-map/clip-language-saliency-map.ipynb)
