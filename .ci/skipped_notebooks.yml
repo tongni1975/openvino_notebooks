@@ -542,6 +542,10 @@
         - macos-13
         - ubuntu-22.04
         - windows-2019
+- notebook: notebooks/flex.2-image-generation/flex.2-image-generation.ipynb
+  skips:
+    - python:
+        - "3.9"
 - notebook: notebooks/openvoice2-and-melotts/openvoice2-and-melotts.ipynb
   skips:
     - os:
